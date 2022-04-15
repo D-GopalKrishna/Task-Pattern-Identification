@@ -1,8 +1,13 @@
-.App {
-  text-align: center;
+.global {
+  /* text-align: center; */
+  background: rgb(24, 24, 24);
 }
 
-.App-logo {
+*{
+  font-family: 'DM Mono', monospace;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +40,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

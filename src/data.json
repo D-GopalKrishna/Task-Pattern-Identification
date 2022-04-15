@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "difficulty": "easy",
+        "question": "Most common pet you can see in the pattern?",
+        "answer": "dog"
+    },
+    {
+        "id": 1,
+        "difficulty": "easy",
+        "question": "Second most common pet you can see in the pattern?",
+        "answer": "cat"
+    },
+    {
+        "id": 2,
+        "difficulty": "medium",
+        "question": "How does taylor swift do?",
+        "answer": "sing"
+    },
+    {
+        "id": 3,
+        "difficulty": "medium",
+        "question": "What do we have on birthdays?",
+        "answer": "cake"
+    },
+    {
+        "id": 4,
+        "difficulty": "hard",
+        "question": "What do you do everyday for approx 8hrs?",
+        "answer": "sleep"
+    },
+    {
+        "id": 5,
+        "difficulty": "hard",
+        "question": "What do you do as celebration (hint: it includes dance and music)?",
+        "answer": "party"
+    }
+]
